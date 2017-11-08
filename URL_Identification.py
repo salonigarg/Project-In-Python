@@ -75,10 +75,10 @@ def main(url):
             print "________________________________________________"
             connection.close()
         else:
-            print "website dont exist"
+            print "website does not exist"
             print "________________________________________________"
     else:
-        print "website dont exist"
+        print "website does not exist"
         print "________________________________________________"
         
 read_file()
